@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "john.doe@example.com",
+    "position": "Software Engineer",
+    "department": "Engineering",
+    "salary": 75000,
+    "hireDate": "2023-01-15"
+  },
+  {
+    "id": "2",
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "email": "jane.smith@example.com",
+    "position": "Product Manager",
+    "department": "Product",
+    "salary": 85000,
+    "hireDate": "2022-11-01"
+  },
+  {
+    "id": "3",
+    "firstName": "Michael",
+    "lastName": "Chen",
+    "email": "michael.chen@example.com",
+    "position": "Senior Developer",
+    "department": "Engineering",
+    "salary": 95000,
+    "hireDate": "2021-03-20"
+  },
+  {
+    "id": "4",
+    "firstName": "Sarah",
+    "lastName": "Johnson",
+    "email": "sarah.johnson@example.com",
+    "position": "UX Designer",
+    "department": "Design",
+    "salary": 72000,
+    "hireDate": "2023-06-10"
+  },
+  {
+    "id": "5",
+    "firstName": "David",
+    "lastName": "Martinez",
+    "email": "david.martinez@example.com",
+    "position": "Marketing Manager",
+    "department": "Marketing",
+    "salary": 80000,
+    "hireDate": "2022-08-15"
+  },
+  {
+    "id": "6",
+    "firstName": "Emily",
+    "lastName": "Brown",
+    "email": "emily.brown@example.com",
+    "position": "Data Analyst",
+    "department": "Analytics",
+    "salary": 70000,
+    "hireDate": "2023-02-28"
+  },
+  {
+    "id": "7",
+    "firstName": "Robert",
+    "lastName": "Wilson",
+    "email": "robert.wilson@example.com",
+    "position": "DevOps Engineer",
+    "department": "Engineering",
+    "salary": 88000,
+    "hireDate": "2021-09-12"
+  }
+]
